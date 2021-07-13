@@ -1,1 +1,1 @@
-.unselectable {    -moz-user-select: none;    user-select: none;}
+.unselectable {    -moz-user-select: none;    user-select: none;}.btn-beau {    background-color: #7367f0;    color: white;    padding: 8px 10px;    border-radius: 5px;    border: 0;}.btn-beau:hover {    background-color: #5c52f5;}.btn-beau:active {    background-color: #584fba;}.btn-beau:focus {    box-shadow: 0 0 0 3px #a39cfd;}
